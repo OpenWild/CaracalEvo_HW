@@ -1,0 +1,36 @@
+Line No,Line Item,Manufacturer,MFG PART NO,Qty,Schematic Reference,Value,Package,Description,SKU DIGIKEY,URL DIGIKEY,Notes
+1,DO NOT FIT,,,1,J2,,,DO NOT FIT,,,DO NOT FIT
+2,CPL-CAP-X7R-0603-100NF-50V,Yageo,CC0603KRX7R9BB104,1,C11,100nF,603,CAP 0603 100nF X7R,311-1344-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=42244635&sid=459&sig=038dbdd&vpid=115141230&ai4=706,
+3,CPL-CAP-X7R-0603-100NF-50V,Yageo,CC0603KRX7R9BB104,9,"C12, C13, C14, C15, C16, C17, C18, C19, C20",100nF,603,CAP 0603 100nF X7R,311-1344-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=42244635&sid=459&sig=038dbdd&vpid=115141230&ai4=706,
+4,CPL-RES-0603-10K-0.1W,Yageo,RC0603FR-0710KL,1,R1,10K,603,RES 0603 10K 0.1W,311-10.0KHRCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=40025538&sid=459&sig=03bdc7a&vpid=114982759&ai4=706,
+5,CPL-RES-0603-10K-0.1W,Yageo,RC0603FR-0710KL,8,"R2, R5, R6, R7, R8, R9, R10, R12",10K,603,RES 0603 10K 0.1W,311-10.0KHRCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=40025538&sid=459&sig=03bdc7a&vpid=114982759&ai4=706,
+6,CPL-CAP-C0G-0603-12PF-50V,KEMET,C0603C120J5GACTU,2,"C2, C3",12 pF,603,CAP 0603 12pF COG,399-1050-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=108780&sid=459&sig=0599318&vpid=1378092&ai4=706,
+7,FTSH-105-01-L-DV-P-TR,Samtec,FTSH-105-01-L-DV,1,X2,1365-10,10POS,DUAL ROW STRAIGHT HEADER 1364 SERIES. 1.27mm x 1.27mm. Without Fixing Post. SMT,SAM1161-05-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=275692&sid=459&sig=0236b3e&vpid=1221529&ai4=706,
+8,FTSH-105-01-L-DV-P-TR,Samtec,FTSH-105-01-L-DV,1,X1,1365-10,10POS,DUAL ROW STRAIGHT HEADER 1364 SERIES. 1.27mm x 1.27mm. Without Fixing Post. SMT,SAM1161-05-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=275692&sid=459&sig=0236b3e&vpid=1221529&ai4=706,
+9,RC0603FR-0718KL,Yageo,RC0603FR-0718KL,1,R14,18k,603,RES 0603 18K 0.1W,311-18.0KHRCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=40952836&sid=459&sig=09a3d7a&vpid=114982817&ai4=706,
+10,ZX 62 B 5PA(33),Hirose,ZX62-B-5PA(33),1,J1,1981584-1,ZX 62 B 5PA(33),"Receptacle, micro-USB, type A/B",H125270CT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=71507690&sid=459&sig=04b112e&vpid=257238747&ai4=706,
+11,CPL-RES-0603-1K-0.1W,Yageo,RC0603FR-071KL,3,"R16, R17, R18",1K,603,RES 0603 1K 0.1W,311-1.00KHRCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=55402882&sid=459&sig=0fe2519&vpid=188128906&ai4=706,
+12,CPL-CAP-X7R-0603-1UF-25V,Yageo,CC0603KRX7R8BB105,7,"C1, C4, C5, C7, C8, C9, C10",1uF,603,CAP 0603 1uF X7R,311-1802-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=24490981&sid=459&sig=04aefbe&vpid=193846493&ai4=706,
+13,CPL-RES-0603-22-0.1W,Panasonic,ERJ-3EKF22R0V,2,"R3, R4",22R,603,RES 0603 22R 0.1W,P22.0HCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=9231677&sid=459&sig=0466c3b&vpid=115259518&ai4=706,
+14,CPL-RES-0603-22-0.1W,Panasonic,ERJ-3EKF22R0V,1,R15,22R,603,RES 0603 22R 0.1W,P22.0HCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=9231677&sid=459&sig=0466c3b&vpid=115259518&ai4=706,
+15,CPL-CAP-C0G-0603-220PF-50V,KEMET,C0603C221J5GACTU,1,C23,220pF,603,CAP 0603 220pF 50V COG,399-1066-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=145946&sid=459&sig=0edf353&vpid=1709481&ai4=706,
+16,LQH31CN220K03L,Murata,LQH31CN220K03L,1,L1,22uH,1206,INDUCTOR 22uH 1206,490-6591-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=890471&sid=459&sig=00efa9b&vpid=64141539&ai4=706,
+17,CPL-CAP-X5R-0603-4.7UF-10V,KEMET,C0603C475K8PACTU,2,"C26, C27",4.7uF X5R,603,CAP 0603 4.7u X5R,399-5503-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=9145152&sid=459&sig=0753ed8&vpid=34046106&ai4=706,
+18,CPL-CAP-X5R-0603-4.7UF-10V,KEMET,C0603C475K8PACTU,2,"C21, C22",4.7uF X5R,603,CAP 0603 4.7u X5R,399-5503-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=9145152&sid=459&sig=0753ed8&vpid=34046106&ai4=706,
+19,CPL-CAP-X5R-0603-4.7UF-10V,KEMET,C0603C475K8PACTU,2,"C24, C25",4.7uF X5R,603,CAP 0603 4.7u X5R,399-5503-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=9145152&sid=459&sig=0753ed8&vpid=34046106&ai4=706,
+20,CPL-RES-0603-47K-0.1W,Yageo,RC0603FR-0747KL,1,R11,47K,603,RES 0603 47K 0.1W,311-47.0KHRCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=1369017&sid=459&sig=0a4c276&vpid=115263533&ai4=706,
+21,CPL-RES-0603-56.2K-0.1W,Yageo,RC0603FR-0756K2L,1,R13,56.2k,603,RES 0603 56K 0.1W,311-56.2KHRCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=39990626&sid=459&sig=0b7d234&vpid=116186545&ai4=706,
+22,BAT20JFILM,STMicroelectronics,BAT20JFILM,2,"D1, D2",BAT20JFILM,SOD-323,"23V, 1A Schottky diode, SOD-323 package BAT20JFILM",497-3381-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=324397&sid=459&sig=0e05c1e&vpid=1200605&ai4=706,
+23,PKMCS0909E4000-R1,Murata,PKMCS0909E4000-R1,1,SG1,BUZZERSMD3,0909E,Buzzer 9mm x 9mm square ,490-9647-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=33722062&sid=459&sig=0500299&vpid=123296983&ai4=706,
+24,DO NOT FIT,,,1,SV1,DO_NOT_FIT,,DO NOT FIT,,,DO NOT FIT
+25,FA-20H 16.0000MF10Z-AJ3,Epson,FA-20H 16.0000MF10Z-AJ3,1,XTAL1,FA20H 16MHz,FA20H,Seiko Epson 2.5 mm x 2.0 mm FA-20H 16 MHz crystal,SER3913CT-ND,https://octopart.com/click/track?c=1&country=GB&ct=offers&ppid=47159198&sid=459&sig=063e1da&vpid=123121938&ai4=706,
+26,ICS-41350,InvenSense,ICS-41350,8,"M1, M2, M3, M4, M5, M6, M7, M8",ICS-41350,,Bottom Port PDM Low Power Microphone,1428-1064-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=73011872&sid=459&sig=051e298&vpid=260955267&ai4=706,Caution! DO NOT WASH BOARDS! 
+27,CPL-LED-0603-BLUE,Broadcom,HSMR-C190,1,D5,LED_BLUE,603,"LED BLUE
+",516-2502-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=71131535&sid=459&sig=0456b7f&vpid=252147222&ai4=706,
+28,CPL-LED-0603-RED,Everlight,19-217/R6C-AL1M2VY/3T,1,D3,LED_RED,603,LED RED,1080-1585-1-ND,https://octopart.com/click/track?c=1&country=GB&ct=offers&ppid=20321435&sid=459&sig=0da2848&vpid=468878027&ai4=706,
+29,CPL-LED-0603-GREEN,Broadcom,HSMG-C190,1,D4,LED_GREEN,603,LED GREEN,516-1425-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=71131307&sid=459&sig=0799685&vpid=252146878&ai4=706,
+30,DO NOT FIT,,,4,"H1, H2, H3, H4",MOUNT-HOLE3.0,,MOUNTING HOLE with drill center marker,,,DO NOT FIT
+31,EVQ-Q2Y03W,Panasonic,EVQ-Q2Y03W,2,"SW1, SW2",SPST_TACT-EVQQ2,,"SMT 6mm switch, EVQQ2 series",P12961SCT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=1385272&sid=459&sig=085be25&vpid=114394231&ai4=706,
+32,STM32L476RGT6TR,STMicroelectronics,STM32L476RGT6TR,1,U1,STM32L4LQFP64TR,TQFP64,LQFP64 Package for ST's STM32L476 32-bit low-power microcontroller,497-19382-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=74146120&sid=459&sig=0be2dbc&vpid=540311552,
+33,TPS62120DCNR,Texas Instruments,TPS62120DCNR,1,IC1,TPS62120,SOT-23-8,"15V, 75mA High Efficient Buck Converter",296-27815-1-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=18807282&sid=459&sig=0cf4522&vpid=34364788&ai4=706,
+34,475710001,Molex,47571-0001,1,U2,USD-HEADER,47571-0001,microSD Header,WM9731CT-ND,https://octopart.com/click/track?country=GB&ct=offers&ppid=19918645&sid=459&sig=059d628&vpid=114502160&ai4=706,
