@@ -30,10 +30,21 @@ The Bill of Materials can be found online here: [CARACAL BOM](https://octopart.c
 
 The files for manufacture can be found under the `/fab` folder, which includes BOM, Gerbers and Centroids. 
 
+The board design has been released as an open-source design on PCBWay - order here: <a href="https://www.pcbway.com/project/shareproject/Caracal_Evo.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay" /></a>
+
+NB: If using a board house to manufacture, note that MEMs microphones are not typically well suited to plate washing, so it is best to mark them as "no-clean" components.
+
+
+
 ![](assets/hw.jpg)
 
 ***Shumba (2017) on left vs Caracal Evo v1.0 (2021) on right***
 
+# In the field
+
+Earlier versions of the CARACAL platform have been well trialled in Zimbabwe, Kenya and the USA. ![](assets/g1.JPG)
+
+![g2](assets/g2.jpg)
 
 
 # Attribution
