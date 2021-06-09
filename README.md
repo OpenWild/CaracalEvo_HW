@@ -1,6 +1,6 @@
 ![](assets/caracal_evo_logo.png)
 
-This repository contains the hardware designs for the Caracal Evo (2021) board variant. 
+This repository contains the hardware designs for the Caracal Evo (2021) board variant.  This is an acoustic array, specifically targetted towards unattended bioacoustic monitoring.
 
 Specific features include:
 
@@ -10,9 +10,13 @@ Specific features include:
 - Small, circular board (8.4 cm radius)
 - Low cost BOM (~USD30 per unit in 100 qty)
 
-## PCB Layouts
+## Circuit and PCB
 
-The Eagle hardware layouts can be found in the `/pcb` subfolder for the schematic (.sch) and the linked PCB (.brd)
+The Eagle hardware layouts can be found in the `/pcb` subfolder for the schematic (.sch) and the linked PCB (.brd), as well as the .pdf schematics.
+
+| Sheet1           | Sheet2             | Sheet 3 | Sheet 4 |
+| -----------|----------- | ------------|------------- |
+| ![alt](assets/sch1.png) | ![alt](assets/sch2.png) |![alt](assets/sch3.png) |![alt](assets/sch4.png) |
 
 | Top layout             | Bottom layout             |
 | ---------------------- | ------------------------- |
@@ -34,7 +38,7 @@ The files for manufacture can be found under the `/fab` folder, which includes B
 
 # Attribution
 
-The Caracal platform has been designed by [Andrew Markham](www.amarkham.com) (Department of Computer Science, University of Oxford) and [Matthew Wijers](https://www.wildcru.org/members/dr-matthew-wijers/) (WildCRU, Department of Zoology, University of Oxford), with support from WildCRU (Dr Andrew Loveridge and Professor David W. Macdonald). If you use it in your work, please consider citing our work:
+The Caracal platform has been designed by [Andrew Markham](http://www.amarkham.com) (Department of Computer Science, University of Oxford) and [Matthew Wijers](https://www.wildcru.org/members/dr-matthew-wijers/) (WildCRU, Department of Zoology, University of Oxford), with support from WildCRU (Dr Andrew Loveridge and Professor David W. Macdonald). If you use it in your work, please consider citing our work:
 
 > Wijers, Matthew, Andrew Loveridge, David W. Macdonald, and Andrew Markham. "CARACAL: A versatile passive acoustic monitoring tool for wildlife research and conservation." *Bioacoustics* 30, no. 1 (2021): 41-57.
 
